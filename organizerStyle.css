@@ -1,0 +1,34 @@
+.title {
+    text-align: center;
+    padding-right: 170px;
+    font-family: 'Raleway';
+}
+
+html {
+    background: #e6e9e9;
+    background-image: linear-gradient(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%);
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Raleway';
+}
+
+body {
+    background: #fff;
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: auto;
+    padding: 2em 2em 4em;
+    height: 100vh;
+}
+
+.webber {
+    text-align: center;
+}
+
+.website {
+    width: 80%;
+}
+
+.subtitle
